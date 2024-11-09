@@ -1,2 +1,5 @@
-The .scss (Sass) files are only available in the pro version.
-You can buy it from: https://bootstrapmade.com/bizland-bootstrap-business-template/
+PRAGATI LIBRARY
+The website is a Library project website that has a registration portal
+and the information that is filled through registration is directly tranferred to google sheets added in javascript.
+you can explore the website using link.
+
